@@ -1,6 +1,6 @@
 ### Introduction
 
- - [ ] Rachel
+ - [ ] **Rachel**
  - [ ] Pluto
  - [ ] Sloppy joes
  - [ ] Dominating
